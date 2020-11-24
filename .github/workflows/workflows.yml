@@ -1,6 +1,6 @@
 P# This is a basic workflow to help you get started with Actions
 
-name: CI
+name: workflows.yml
 
 # Controls when the action will run. 
 on:
